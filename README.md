@@ -1,101 +1,46 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Your Portfolio</title>
-</head>
-<body>
-    <header>
-        <div class="container">
-            <h1>Your Name</h1>
-            <p>Web Developer</p>
-        </div>
-    </header>
+# Мария Лучкова
+:briefcase: Бизнес-аналитик 08.2023 - н.в.\
+:round_pushpin: Санкт-Петербург
+## Junior Business Analyst
+Познакомилась с Data в обработке сигналов: работая в лабораториях с ЭКГ и МРТ, поняла, что аналитика – моя сфера.
+<br/><br/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/maria-luchkova-375ba9269/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1YXkhyRmSoypKul6syGy-ZKGEO8GhlwSJ/view?usp=sharing">
+    <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
+  </a>
+  <a href="https://t.me/swaymedolce">
+    <img src="https://img.shields.io/badge/Tg-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="CV"/>
+  </a>
+  <a href="https://www.kaggle.com/marialuchkova">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="CV"/>
+  </a>
+</div>
 
-    <section id="projects">
-        <div class="container">
-            <h2>Projects</h2>
-            <!-- Add your project cards here -->
-            <div class="project-card">
-                <h3>Project 1</h3>
-                <p>Description of Project 1.</p>
-                <a href="#">View on GitHub</a>
-            </div>
-            <div class="project-card">
-                <h3>Project 2</h3>
-                <p>Description of Project 2.</p>
-                <a href="#">View on GitHub</a>
-            </div>
-        </div>
-    </section>
+###  Инструменты:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
-    <section id="about">
-        <div class="container">
-            <h2>About Me</h2>
-            <p>Write a brief introduction about yourself here.</p>
-        </div>
-    </section>
-
-    <script src="script.js"></script>
-</body>
-</html>
-body {
-    font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-header {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 50px 0;
-}
-
-header h1 {
-    margin: 0;
-}
-
-header p {
-    margin: 10px 0;
-}
-
-section {
-    margin: 40px 0;
-}
-
-.project-card {
-    border: 1px solid #ddd;
-    padding: 20px;
-    margin: 20px 0;
-}
-
-.project-card h3 {
-    margin: 0;
-}
-
-.project-card p {
-    margin: 10px 0;
-}
-
-.project-card a {
-    display: block;
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
-.project-card a:hover {
-    background-color: #555;
-}
+###  Проекты:
+| Название | Инструменты |
+| :--------: | :-------: |
+|[Интерактивный дашборд](https://github.com/DinkyPinky/Data-Science/tree/main/Games-Dashboard) |<img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5&logoColor=red"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=blue"/>|
+|[SQL Retention rate](https://github.com/DinkyPinky/Data-Science/tree/main/SQL/Retention-rate) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
+|[SQL Работа с тренировочной базой данных по авиалиниям](https://github.com/DinkyPinky/Data-Science/tree/main/SQL/Airlines-database) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
+|[Модель раннего обнаружения неисправностей оборудования](https://github.com/DinkyPinky/Data-Science/tree/main/HACKATON-malfunction-prediction) |<img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy&logoColor=orange"/><img src="https://img.shields.io/badge/PyArrow-black?style=flat-square&logo=apache&logoColor=orange"/><img src="https://img.shields.io/badge/Dask-black?style=flat-square&logo=dask&logoColor=orange"/><img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/>|
+|[Обработка фотографий покупателя](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/CV-customer-age-detection) |<img src="https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras&logoColor=red"/><img src="https://img.shields.io/badge/Python-Blue?style=flat-square&logo=pythony&logoColor=yellow"/>|
+|[Классификация токсичных комментариев](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/comments-classification) |<img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy&logoColor=orange"/><img src="https://img.shields.io/badge/TQDM-black?style=flat-square&logo=tqdm&logoColor=orange"/>|
+|[Определение стоимости автомобилей](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/car-price-prediction) |<img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/><img src="https://img.shields.io/badge/LightGBM-black?style=flat-square"/>|
+|[Прогнозирование количества заказов такси на следующий час](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/taxi-time-series) |<img src="https://img.shields.io/badge/statsmodels-black?style=flat-square&"/><img src="https://img.shields.io/badge/Scikitlearn-black?style=flat-square&logo=scikitlearn&logoColor=yellow"/>|
+|[Определение наиболее выгодного региона нефтедобычи](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/best-bore-location)|<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/>|
+|[Отток клиентов банка](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/bank-churn-predictions) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/>|
+|[Оценка популярности игр](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/games-rating-analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/>||
+|[Определение рыночной стоимости квартир](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/real-estate-market-analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/>|  
